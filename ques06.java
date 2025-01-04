@@ -8,5 +8,8 @@ public class ques06 {
 		if(a>99 && a<1000)	{
 			System.out.println("The Entered number is a three digit number");
 		}
+		else{
+			System.out.println("The entered number is not a 3 digit number");
+		}
 	}
 }
