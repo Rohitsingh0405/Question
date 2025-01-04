@@ -8,7 +8,9 @@ public class ques04 {
 		if(a%3==0 && a%5==0 && a%7==0){
 			System.out.println("Yes the number is divisible by 3,5,7 ");
 		}
-		
+		else{
+			System.out.println("The entered number is not divisible by 3 ,5 and 7 ");
+		}
 
 	}
 }
