@@ -9,7 +9,7 @@ public class que02{
 			System.out.println("Yes it is a multiple of 10 ");
 		}
 		else{
-			System.out.println("NO it is not a multiple of 10 ");
+			System.out.println("No it is not a multiple of 10 ");
 		}
 	}
 }
