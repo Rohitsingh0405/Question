@@ -8,5 +8,8 @@ public class ques07 {
 		if((a%10==0) && (a>99) && (a<1000)){
 			System.out.println("Entered number is 3 digit number and it a multiple of 10 ");
 		}
+		else{
+			System.out.println("The number is not true ");
+		}
 	}	
 }
