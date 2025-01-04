@@ -8,5 +8,8 @@ public class ques03 {
 		if(a%3==0 && a%5==0){
 			System.out.println("Yes it is a multiple of both 3 and 5");
 		}
+		else{
+			System.out.println("No the number is not a multiple of both 3 and 5 ");
+		}
 	}
 }
