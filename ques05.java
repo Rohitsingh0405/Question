@@ -5,8 +5,11 @@ public class ques05 {
 		Scanner in = new Scanner(System.in);
 		System.out.println("Enter the number to check");
 		int a = in.nextInt();
-		if(a%100==a){
+		if(a>9 && a<100){
 			System.out.println("The entered number is 2 digit number");
+		}
+		else{
+			System.out.println("The entered number is not 2 digit number");
 		}
 		
 	
