@@ -7,5 +7,8 @@ public class ques09 {
 		if(a%10==0){
 			System.out.println("The entered number ends with 0 ");
 		}
+		else{
+			System.out.println("The entered does not ends with zero")
+		}
 	}	
 }
