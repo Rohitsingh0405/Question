@@ -7,6 +7,8 @@ public class ques08 {
 		if((a>99) && (a<1000) && (a%2==0) && (a%5==0) && (a%10==0)){
 			System.out.println("Yes");
 		}
-		
+		else{
+			System.out.println("NO");
+		}
 	}
 }
