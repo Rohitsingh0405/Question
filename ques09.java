@@ -9,7 +9,7 @@ public class ques09 {
 			System.out.println("The entered number ends with 0 ");
 		}
 		else{
-			System.out.println("The entered does not ends with zero")
+			System.out.println("The entered does not ends with zero");
 		}
 	}	
 }
