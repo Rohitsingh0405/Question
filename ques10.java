@@ -9,7 +9,7 @@ public static void main(String[] args) {
 		System.out.println("It is Upper case Ascii");
 	}
 	else{
-		
+		System.out.println("The enter character is not in upper case ascii");
 	}
 	
 
